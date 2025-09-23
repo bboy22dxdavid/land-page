@@ -3,7 +3,7 @@
 
 # FOI CRIADO UMA LANDING-PAGE MODELO 
 
-pagina modelo para projetos de land-page.  
+pagina modelo para projetos de landing-page.  
 
 
 ![Image](https://github.com/user-attachments/assets/7727b040-3185-4dfc-b68e-16d65e605d25)
